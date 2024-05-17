@@ -1,1 +1,0 @@
-# RNNmodel-namegen
